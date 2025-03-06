@@ -6,7 +6,7 @@ VISION4,Rethika, Automated resume screening for job applications
 This AI/ML-based Resume Screening System automates the candidate shortlisting process by analyzing resumes, extracting key details, and ranking candidates based on job relevance.  
 
  Features  
-- **Resume Parsing – Extracts structured data (name, experience, skills, education).  
+- Resume Parsing – Extracts structured data (name, experience, skills, education).  
 - **Keyword Matching** – Matches resumes with job descriptions.  
 - **AI-Based Ranking** – Scores resumes based on relevance.  
 - **Bias Reduction** – Removes demographic information for fair screening.  
